@@ -1,13 +1,13 @@
 <h1 align="center">Dev Éricky Thierry</h1>
-<h3 align="center">Fã de servidores linux, cloud computing e Desenvolvimento BackEnd</h3>
+<h3 align="center">Fã de servidores linux, cloud e Desenvolvimento BackEnd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickythierry&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="erickythierry" /> </p>
 
 - 🔭 Atualmente Trabalhando com **ChatBots para Whatsapp**
 
-- 🌱 Atualmente aprendendo **NextJS, ReactJS**
+- 🌱 Atualmente aprendendo **LLVM, IA**
 
-- 📫 E-mail **contato@ericky.ga**
+- 📫 E-mail **contato@ericky.eu.org**
 
 <h3 align="left">Social:</h3>
 <p align="left">
