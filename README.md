@@ -18,7 +18,7 @@
 
 <p align="center">📫 E-mail <b>contato@ericky.eu.org</b></p>
 
-<p align="center"><b>🤖 <a href="https://botcriador.com">BotCriador.com</a></b></p>
+<p align="center"><b>🤖 <a href="https://botcriador.com" target="_blank">BotCriador.com</a></b></p>
 
 <hr>
 <div align="center">
