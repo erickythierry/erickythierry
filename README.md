@@ -1,7 +1,4 @@
 <h1 align="center">Éricky Thierry</h1>
-<h3 align="center">Fã de servidores linux, Cloud e Desenvolvimento BackEnd</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=erickythierry&label=Visualiza%C3%A7%C3%B5es&color=brightgreen&style=for-the-badge" alt="erickythierry" /> </p>
 <p align="center">
 <a 
   href="https://linkedin.com/in/ericky-thierry" 
@@ -9,15 +6,20 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erickythierry" height="30" width="40" />
 </a>
 </p>
+<h3 align="center">Fã de servidores linux, Cloud e Desenvolvimento BackEnd</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erickythierry&label=Visualiza%C3%A7%C3%B5es&color=brightgreen&style=for-the-badge" alt="erickythierry" /> </p>
 
 <p align="center">🌱 Atualmente aprendendo Go<b></b></p>
 
-<p align="center">🔭 Trabalhando com <b>ChatBots para Whatsapp</b> <i>(Baileys, Whatsmeow, Meta cloud API)</i></p>
+<p align="center">🔭 Trabalhando com <b>ChatBots e automações para Whatsapp</b> <i>(Baileys, Whatsmeow, Meta cloud API)</i></p>
+<br>
+<p align="center">💻 <b>Skills</b></p>
+<p align="center">Desenvolvimento FullStack com Docker, Node.js, Express.js, React, Next.js, Linux, RestAPI, Python, etc...</p>
+<p align="center">MySQL, PostgreSQL, Redis, Firebase, SQLite</p>
 
-<p align="center">💻 Habilidades: <b>Desenvolvimento FullStack com Docker, Node.js, Express.js, React, Next.js, Linux, RestAPI, Python, etc...</b></p>
-
+<br>
 <p align="center">📫 E-mail <b>contato@ericky.eu.org</b></p>
-
 <p align="center">🤖 <a href="https://botcriador.com" target="_blank">BotCriador.com</a></p>
 
 <hr>
