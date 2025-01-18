@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erickythierry&label=Visualiza%C3%A7%C3%B5es&color=brightgreen&style=for-the-badge" alt="erickythierry" /> </p>
 
-<p align="center">🔭 Trabalhando com <b>ChatBots e automações para Whatsapp</b> <i>(Baileys, Whatsmeow)</i></p>
+<p align="center">🔭 Trabalhando com <b>ChatBots e automações para Whatsapp</b></p>
 <br>
 <p align="center">💻 <b>Skills</b></p>
 <p align="center">Desenvolvimento FullStack com Docker, Node.js, Express.js, React, Next.js, Linux, RestAPI, Python, etc...</p>
